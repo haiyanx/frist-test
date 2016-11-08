@@ -1,0 +1,12 @@
+﻿extends ./templates/layout
+
+append res
+    if map.index.css
+        link(href=map.index.css, rel="stylesheet")
+    script(src=map.vendor.js)
+
+append body
+    #main.container
+
+append scripts
+    script(src=map.index.js)

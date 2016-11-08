@@ -1,0 +1,28 @@
+{
+  "globalDependencies": { //全局依赖性
+    "body-parser": "registry:dt/body-parser#0.0.0+20160619023215",
+    "compression": "registry:dt/compression#0.0.0+20160501162003",
+    "express": "registry:dt/express#4.0.0+20160708185218",
+    "express-serve-static-core": "registry:dt/express-serve-static-core#4.0.0+20160829034835",
+    "helmet": "registry:dt/helmet#0.0.0+20160930124002",
+    "node": "registry:dt/node#6.0.0+20160909174046",
+    "pug": "registry:dt/pug#2.0.0-beta6+20160919072324",
+    "serve-favicon": "registry:dt/serve-favicon#0.0.0+20160316155526",
+    "serve-static": "registry:dt/serve-static#0.0.0+20160606155157"
+  },
+  "globalDevDependencies": { //开发的依赖性
+    "babel-core": "registry:dt/babel-core#6.7.0+20160423062108",
+    "bootstrap": "registry:dt/bootstrap#3.3.5+20160619023404",
+    "chalk": "registry:dt/chalk#0.4.0+20160317120654",
+    "classnames": "registry:dt/classnames#0.0.0+20160316155526",
+    "less": "registry:dt/less#0.0.0+20160608105036",
+    "material-ui": "registry:dt/material-ui#0.16.0+20161019120356",
+    "mocha": "registry:dt/mocha#2.2.5+20160720003353",
+    "morgan": "registry:dt/morgan#1.7.0+20160524142355",
+    "react": "registry:dt/react#0.14.0+20161008064207",
+    "react-dom": "registry:dt/react-dom#0.14.0+20160412154040",
+    "react-tap-event-plugin": "registry:dt/react-tap-event-plugin#0.0.0+20160602142434",
+    "should": "registry:dt/should#8.1.1+20160608082854",
+    "webpack": "registry:dt/webpack#1.12.9+20160927034556"
+  }
+}
